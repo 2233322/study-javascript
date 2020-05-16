@@ -13,7 +13,7 @@
 
 DOM树形结构所有的节点有统一的接口Node，节点类型
 
-![Node节点类型](../../Images/基础前端系列/node.png)
+![Node节点类型](../../Images/baseics/node.png)
 
 ### Node
 
